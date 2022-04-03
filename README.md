@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercorvowade&theme=radical)](https://github.com/mastercorvowade/github-readme-stats)
 
 
+[![Ali Nurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastercorvowade&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercorvowade&hide=html&langs_count=6&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Ickynavigator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ickynavigator)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--
