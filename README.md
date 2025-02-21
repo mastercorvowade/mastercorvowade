@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm Ali Nurkan 
-
+[Software Engineer]
 
 Welcome to my github 😃
 
