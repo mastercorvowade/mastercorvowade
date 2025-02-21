@@ -1,18 +1,13 @@
 ## Hi there 👋
 
-### I'm Ali Nurkan
+### I'm Ali Nurkan 
 
-### `NOT AVAILABLE FOR FULLTIME JOB OFFERS AT THE MOMENT BUT FEEL FREE TO CONTACT ME`
 
 Welcome to my github 😃
 
-I'm a frontend web developer using Reactjs
 
-I also do backend with NodeJs
 
-I'm currently working on a few projects
 
-##### 📫 feel free to send a mail to [Here](mailto:alinurkan9@windowslive.com)
 
 
 
